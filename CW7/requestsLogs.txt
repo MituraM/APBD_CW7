@@ -1,0 +1,2 @@
+[29.05.2020 22:43:13] GET /api/students
+[29.05.2020 22:43:13] GET /favicon.ico
